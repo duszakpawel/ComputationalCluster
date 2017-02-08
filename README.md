@@ -1,6 +1,6 @@
 # ComputationalCluster
 
-Computational cluster dedicated to solve NP-Problems.
+Computational cluster dedicated to solve NP-Problems. Developed for academic purposes.
 
 Nodes of this network communicate with the server(s) by TCP/IP protocol.
 
