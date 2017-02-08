@@ -21,4 +21,8 @@ To start computations, all the components must be in the same local network. Als
 
 Any components can (or must if you dont provide correct parameters in resources for each of project) be started with initial parameters (check the ArgumentParserExtesions class for specific project).
 
+```
+projectname -parameter1 value1 -parameter2 -value2
+```
+
 There is also possibility to join some backup servers to the network; if the main server crashes or something then there is a chance that computations may continue and the main server will be switched to another one.
